@@ -1,0 +1,11 @@
+{
+    "port": 8080,
+    "request_token_url": "https://api.twitter.com/oauth/request_token",
+    "access_token_url": "https://api.twitter.com/oauth/access_token",
+    "authorize_url": "https://api.twitter.com/oauth/authorize",
+    "consumer_key": "swiS0S4pyQirPea9lA34lvTK8",
+    "consumer_secret": "yUXvupVM4d22ODmjboEdfLwtdvk2AjCK9JXKJvYM7L24dfjbZi",
+    "oauth_version": "1.0",
+    "oauth_signature": "HMAC-SHA1",
+    "oauth_callback": "https://jrbtunnel.serveo.net/request_token"
+}
